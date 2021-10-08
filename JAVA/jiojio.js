@@ -1,2 +1,2 @@
-alert ("22T:Well good job. You just find my basement!");
-alert ("This Page contains background sound that cannot be shut down.(22T:This is MY Basement and I will do what I want！) So plz check your audio system before accessing so that you don't deafen yourself.")
+swal ("22T:Well good job. You just find my basement!");
+swal ("This Page contains background sound that cannot be shut down.(22T:This is MY Basement and I will do what I want！) So plz check your audio system before accessing so that you don't deafen yourself.")
